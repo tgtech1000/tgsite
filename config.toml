@@ -1,5 +1,5 @@
 title = "Ed Tech Thoughts"
-baseURL = ""
+baseURL = "/"
 languageCode = "en-us"
 theme = "ananke"
 
